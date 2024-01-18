@@ -11,7 +11,7 @@
 :focus, :active, a:focus, a:active {
   outline: none;
 }
-
+ 
 nav, footer, header, aside {
   display: block;
 }
