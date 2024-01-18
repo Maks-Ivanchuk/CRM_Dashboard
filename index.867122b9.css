@@ -256,7 +256,7 @@ main {
 }
 
 @media screen and (min-width: 769px) {
-  .sidebar__user .sidebar__user {
+  .sidebar__user {
     justify-content: flex-start;
   }
 }
